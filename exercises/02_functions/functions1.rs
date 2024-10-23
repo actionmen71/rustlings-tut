@@ -3,3 +3,11 @@
 fn main() {
     call_me(); // Don't change this line
 }
+
+fn call_me(){
+    print!("hi");
+    print!("hello");
+    println!("new");
+    print!("hi");
+
+}
